@@ -1,0 +1,104 @@
+{
+  "users": {},
+  "chats": {
+    "6281316701742@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "simi": false,
+      "antibadword": false
+    },
+    "6281545463585-1623371603@g.us": {
+      "mute": false,
+      "antilink": false,
+      "simi": false,
+      "antibadword": false
+    },
+    "6288239620884-1626256984@g.us": {
+      "mute": false,
+      "antilink": false,
+      "simi": false
+    },
+    "6282297988045@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "simi": false,
+      "antibadword": false
+    },
+    "6287710240822@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "simi": false
+    },
+    "6285922404374@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "simi": false
+    },
+    "6285245801320@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "simi": false
+    },
+    "120363028851129676@g.us": {
+      "mute": false,
+      "antilink": false,
+      "simi": false
+    },
+    "6282178123866@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "simi": false
+    },
+    "6282248232250@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "simi": false
+    },
+    "6282289737751@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "simi": false
+    },
+    "6282232780320@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "simi": false
+    },
+    "6281943262933@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "simi": false
+    },
+    "6287839498836@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "simi": false,
+      "antibadword": false
+    },
+    "6281268248904@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "simi": false
+    },
+    "6285340006576@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "antibadword": false,
+      "simi": false
+    }
+  },
+  "database": {},
+  "game": {},
+  "settings": {
+    "6281268248904@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false,
+      "activity": true,
+      "autoread": false,
+      "autotyping": false,
+      "autoai": false
+    }
+  },
+  "others": {},
+  "sticker": {}
+}
