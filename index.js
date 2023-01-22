@@ -2,8 +2,8 @@
 
 require("./config/config.js");
 require("http").createServer((_, res) => res.end("Uptime!")).listen(8080)
-const { default: Connect, useSingleFileAuthState, DisconnectReason, fetchLatestBaileysVersion, generateForwardMessageContent, prepareWAMessageMedia, generateWAMessageFromContent, generateMessageID, downloadContentFromMessage, makeInMemoryStore, jidDecode, proto } = require("@adiwajshing/baileys")
-const { state, saveState } = useSingleFileAuthState(`./session.json`)
+const { default: Connect, useMultiFileAuthState, useSingleFileAuthState, DisconnectReason, fetchLatestBaileysVersion, generateForwardMessageContent, prepareWAMessageMedia, generateWAMessageFromContent, generateMessageID, downloadContentFromMessage, makeInMemoryStore, jidDecode, proto } = require("@adiwajshing/baileys")
+const { state, saveState } = useMultiFileAuthState('session')
 const pino = require('pino')
 const { Boom } = require('@hapi/boom')
 const fs = require('fs')
